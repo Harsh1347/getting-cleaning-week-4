@@ -4,7 +4,7 @@ author: "Harsh Gupta"
 
 date: "02.04.2020" 
 
-output: "tidydate.txt""
+output: "tidydata.txt""
 
 
 # Code Book
